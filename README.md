@@ -1,6 +1,6 @@
 # House Price Prediction Model
 
-Welcome to the **House Price Prediction Model** repository! This project aims to predict house prices using advanced regression techniques and feature engineering, delivering a robust model for estimating property values. The model is designed to analyze complex relationships within the dataset, making it highly effective for predictive accuracy.
+Welcome to the **House Price Prediction Model** repository! This project aims to predict house prices using advanced regression techniques and feature engineering, delivering a robust model for estimating property values. The model is designed to analyze complex relationships within the dataset, making it highly effective for predictive accuracy..
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
