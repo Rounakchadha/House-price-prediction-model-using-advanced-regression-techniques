@@ -14,7 +14,7 @@ Welcome to the **House Price Prediction Model** repository! This project aims to
 
 ## Project Overview
 
-The primary goal of this project is to predict house prices based on a variety of factors, including location, size, number of rooms, neighborhood amenities, and more. This model can be used by real estate professionals, data scientists, and anyone interested in building a predictive model for housing prices.
+The primary goal of this project is to predict house prices based on a variety of factors, including location, size, number of rooms, neighborhood amenities,and more. This model can be used by real estate professionals, data scientists, and anyone interested in building a predictive model for housing prices.
 
 The project includes:
 - Data cleaning and preprocessing
